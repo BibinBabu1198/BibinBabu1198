@@ -19,7 +19,7 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; C# | .Net | .Net Core | JavaScript | Angular | React | Microsoft SQL Server
+- 💻 &nbsp; C# |  .Net  |  .Net Core  |  JavaScript  | Angular | React | Microsoft SQL Server
 
 - ⚙️ &nbsp; Model-View-Controller (mvc) Architecture | Model-View-Viewmodel (MVVM) Architecture  | Entity Framework Core | Repository Pattern In ASP.NET Core
 
