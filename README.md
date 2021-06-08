@@ -21,7 +21,7 @@
 
 - 💻 &nbsp; C#&nbsp;|&nbsp;.Net&nbsp;|&nbsp;.Net Core&nbsp;|&nbsp;JavaScript&nbsp;|&nbsp;Angular&nbsp;|&nbsp;React&nbsp;|&nbsp;Microsoft SQL Server
 
-- ⚙️ &nbsp; Model-View-Controller (MVC) Architecture|Model-View-Viewmodel (MVVM) Architecture|Entity Framework Core|Repository Pattern In ASP.NET Core
+- ⚙️ &nbsp; Model-View-Controller (MVC) Architecture | Model-View-Viewmodel (MVVM) Architecture | Entity Framework Core | Repository Pattern In ASP.NET Core
 
 - 🔧 &nbsp; Git | SVN | VS Code | Visual Studio | Microsoft SQL Server
 
