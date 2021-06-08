@@ -11,7 +11,7 @@
 
 - 🌐 &nbsp; Exploring new technologies and developing software solutions.
 
-- 💼 &nbsp; Working at Alignminds Technologies as a full stack developer .
+- 💼 &nbsp; Working at Alignminds Technologies as a full stack developer.
 
 - 🌱 &nbsp; Learning about .Net Core, Amazon AWS, Azure.
 
