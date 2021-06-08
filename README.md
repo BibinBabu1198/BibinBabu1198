@@ -13,7 +13,7 @@
 
 - 💼 &nbsp; Working at Alignminds Technologies as a full stack developer .
 
-- 🌱 &nbsp; Learning about .Net Core, Amazon AWS,Azure.
+- 🌱 &nbsp; Learning about .Net Core, Amazon AWS, Azure.
 
 
 <h3>🛠 Tech Stack</h3>
