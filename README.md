@@ -30,7 +30,7 @@
 
 <div>
 
-![](https://github-readme-stats.vercel.app/api?username=BibinBabu1198&show_icons=true&count_private=true&hide=issues) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BibinBabu1198&layout=compact)
+!![Bibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BibinBabu1198&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BibinBabu1198&layout=compact)
 ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------
 
 </div>
