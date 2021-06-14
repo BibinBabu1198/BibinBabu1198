@@ -29,9 +29,9 @@
 <br/>
 
 <div>
-![Bibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BibinBabu1198&show_icons=true&theme=tokyonight) 
+!![Bibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BibinBabu1198&show_icons=true&theme=tokyonight) 
 </div>
-![Bibin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BibinBabu1198&show_icons=true&theme=tokyonight)
+!![Bibin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BibinBabu1198&show_icons=true&theme=tokyonight)
 <br/>
 
 
