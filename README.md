@@ -34,11 +34,11 @@
 
 <br />
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Bibin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BibinBabu1198&show_icons=true&theme=tokyonight)
+
 <br />
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=BibinBabu1198&show_icons=true&theme=tokyonight)
-</div>
-
-
 
 ## My Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=BibinBabu1198)](https://github.com/BibinBabu1198/github-profile-trophy)__ 
