@@ -28,17 +28,13 @@
 
 <br/>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div>
 
-![Bibin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BibinBabu1198&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=BibinBabu1198&show_icons=true&count_private=true&hide=issues) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BibinBabu1198&layout=compact)
+----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------
 
-<br />
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Bibin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BibinBabu1198&show_icons=true&theme=tokyonight)
-
-<br />
+</div>
+<br/>
 
 ## My Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=BibinBabu1198)](https://github.com/BibinBabu1198/github-profile-trophy)__ 
